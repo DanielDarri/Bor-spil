@@ -1,1 +1,1 @@
-# Bor-spil
+# Borðspil
