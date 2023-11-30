@@ -11,6 +11,6 @@ leikmaður fer áfram það marga reiti sem hann fékk. Í spilinu eru Snákar o
 ## Myndir af lóðun
 
 ## Hönnunarteikning
-<img src=https://nam.inna.is/api/Attachment/DownloadAttachment/6304803/3?student=1 width="50%" height="50%">
+<img src="" width="50%" height="50%">
 
 ## Tengill á kóða
